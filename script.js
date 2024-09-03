@@ -81,7 +81,7 @@ function respostaSelecionada(opcaoSelecionada){
     mostraPergunta();
 }
 function mostraResultado(){
-caixaPerguntas.textContent = "Suas ações mudam o mundo!";
+caixaPerguntas.textContent = "Parabéns jogador";
 textoResultado.textContent = historiaFinal;
 caixaAlternativas.textContent = "";
 }
