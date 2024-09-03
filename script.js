@@ -6,43 +6,43 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
 {
-    enunciado: "O Rafael é gay?",
+    enunciado: "Quantos finais Assassin's Creed Valhalla possui?",
     alternativas: [
         {
-            texto:"sim",
+            texto:"somente 1",
             afirmacao: "afirmação 1"
         },
         {
-        texto:"sem duvidas",
+        texto:"possui 2",
         afirmacao: "afirmação 2"
         }
     ]
 },
 
 {
-    enunciado: "Como você pode ajudar a combater a disseminação de fake news, especialmente as que perpetuam o racismo?",
+    enunciado: "Qual é o nome do protagonista de dying light 2?",
     alternativas: [
         {
 
-        texto: "Verificando a veracidade das informações antes de compartilhar qualquer conteúdo, especialmente sobre temas sensíveis como racismo.",
+        texto: "Krane",
         afirmacao: "afirmação 3"
         },
         {
-        texto:"Educando amigos e familiares sobre os perigos das fake news e incentivando-os a não compartilhar conteúdos falsos que perpetuam o racismo.",
+        texto:"Aiden",
         afirmacao: "afirmação 4"
         }
     ]
 },
 
 {
-    enunciado: "Quais são os benefícios do uso de recursos tecnológicos para promover a acessibilidade em diferentes ambientes?",
+    enunciado: "Quantos anos o jogo minecraft tem?",
     alternativas: [
         {
-        texto:"Promover a instalação de painéis solares em escolas e centros comunitários de comunidades marginalizadas.",
+        texto:"15 anos",
         afirmacao: "afirmação 5"
         },
         {
-        texto:"Defender políticas públicas que subsidiem a energia solar para famílias de baixa renda.",
+        texto:"10 ou menos",
         afirmacao: "afirmação 6"
         }
     ]
